@@ -12,12 +12,11 @@
 
 ## About me
 
-
-Knowledge in programming at Intermediate JAVA language, Intermediate Python and Basic JavaScript
-Directing learning towards Full-Stack development with JAVA, JavaScript, HTML, CSS and frameworks and platforms like Node Js and Springboot
-I have Knowledge and experience in construction and development in JAVA language, building automated applications, code review and code refactoring.
-Also Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodology, SCRUM and DevOps systems.
-
+<p>
+Knowledge in programming at Intermediate JAVA language, Intermediate Python and Basic JavaScript,<br>
+Directing learning towards Full-Stack development with JAVA, JavaScript, HTML, CSS and frameworks and platforms like Node Js and Springboot.<br>
+I have Knowledge and experience in construction and development in JAVA language, building automated applications, code review and code refactoring, and also Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodology, SCRUM and DevOps systems.
+</p>
 
 
 
