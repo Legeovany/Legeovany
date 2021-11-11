@@ -3,7 +3,7 @@
 ## Hey, How are you ?
 
 
-- 👋 I’m Geovany Aciole and I’m a Full-stack developer
+- 👋 I’m Geovany Aciole and I’m a Back-end developer
 
 - 🌱 I’m 20 years old
 
@@ -14,8 +14,8 @@
 
 <p>
 Knowledge in programming at Intermediate JAVA language, Intermediate Python and JavaScript,<br>
-Directing learning towards Full-Stack development in JAVA, JavaScript, HTML, CSS and frameworks and platforms like Node Js and Springboot.<br>
-I have Knowledge and experience in construction and development in JAVA language, building automated applications, code review and code refactoring, and also Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodology, SCRUM and DevOps systems.
+Directing learning towards Back-end development in JAVA, Python, JavaScript with frameworks and platforms like Node Js, Typescript and Springboot.<br>
+I have Knowledge and experience in development in JAVA and Python language, also building automated applications, code review and code refactoring, and experience with the following systems Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodology, SCRUM and DevOps.
 </p>
 
 
