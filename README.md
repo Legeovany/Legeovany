@@ -13,9 +13,9 @@
 ## About me
 
 <p>
-Knowledge in programming at Intermediate JAVA language, Intermediate Python and JavaScript,<br>
-Directing learning towards Back-end development in JAVA, Python, JavaScript with frameworks and platforms like Node Js, Typescript and Springboot.<br>
-I have Knowledge and experience in development in JAVA and Python language, also building automated applications, code review and code refactoring, and experience with the following systems Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodology, SCRUM and DevOps.
+Knowledge in programming at Intermediate Java language, Intermediate Python and Node Js,<br>
+Directing learning towards Back-end development in Java, Python and Node Js with platforms, frameworks and tools like Express Js, Typescript and Springboot.<br>
+I have Knowledge and experience in development in Java and Python language, also building automated applications, code review and code refactoring, and experience with the following systems Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodologies SCRUM and DevOps.
 </p>
 
 
