@@ -13,9 +13,9 @@
 ## About me
 
 <p>
-Knowledge in programming at Intermediate Java language, Intermediate Python and Node Js,<br>
-Directing learning towards Back-end development in Java, Python and Node Js with platforms, frameworks and tools like Express Js, Typescript and Springboot.<br>
-I have Knowledge and experience in development in Java and Python language, also building automated applications, code review and code refactoring, and experience with the following systems Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodologies SCRUM and DevOps.
+Knowledge in Python, Node Js and Java programming languages.<br>
+Directing learning towards Back-end development in Python and Node Js with platforms, frameworks and tools like Django, Express Js and Typescript.<br>
+I have knowledge and personal and professional experiences in developing back-end applications, web applications and also building automated applications, code review, code refactoring, and experience with the following systems Git, Junit/TestNG, Jira, Jenkins, GitLab, GitHub, Agile Methodologies SCRUM, DevOps and Kanban.
 </p>
 
 
@@ -24,9 +24,6 @@ I have Knowledge and experience in development in Java and Python language, also
 ## Languages and Tools
 
 <p align="left">
-  <a href="#" alt="Java">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-  
   <a href="#" alt="Python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   
@@ -36,14 +33,14 @@ I have Knowledge and experience in development in Java and Python language, also
   <a href="#" alt="Node.Js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   
+  <a href="#" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+  
   <a href="#" alt="HTML5">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
   
   <a href="#" alt="CSS3">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-  
-  <a href="#" alt="Springboot">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></a>
 
   <a href="#" alt="NPM">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
