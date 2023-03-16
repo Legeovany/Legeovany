@@ -53,11 +53,20 @@ In-depth knowledge and experience on the following tools Rest Assured, Selenium,
   <a href="#" alt="NPM">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
   
-  <a href="#" alt="Prisma">
-  <img src="https://img.shields.io/badge/prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white" /></a>
+  <a href="#" alt="ExpressJs">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /></a>
   
   <a href="#" alt="Postman">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
+  
+  <a href="#" alt="Swagger">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" /></a>
+  
+  <a href="#" alt="Jenkins">
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+  
+  <a href="#" alt="Jira">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" /></a>
  
 </p>
 
