@@ -25,8 +25,6 @@ In-depth knowledge and experience on the following tools Rest Assured, Selenium,
 ## Languages and Tools
 
 <p align="left">
-  <a href="#" alt="Python">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   
   <a href="#" alt="JavaScript">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
@@ -36,6 +34,15 @@ In-depth knowledge and experience on the following tools Rest Assured, Selenium,
   
   <a href="#" alt="Java">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+  
+  <a href="#" alt="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  
+  <a href="#" alt="Cypress">
+  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /></a>
+  
+  <a href="#" alt="Selenium">
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></a>
   
   <a href="#" alt="HTML5">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
