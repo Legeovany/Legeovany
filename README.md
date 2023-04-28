@@ -7,16 +7,16 @@
 
 - 🌱 I’m 21 years old
 
-- 🏠 I’m from Brazil and currently living in Dublin, Ireland
+- 🏠 I’m from Brazil and currently living in Lisbon, Portugal
 
 
 ## About me
 
 <p>
 Graduated Software Engineer with knowledge in JavaScript, NodeJs, Python and Java programming languages.<br>
-Deep professional experience in Software Engineering in Test, developing automated applications and frameworks for API and WEB testing, code review, code refactoring, software testing process, analysing, and planning test scenarios.<br>
-Knowledge in Back-end development in NodeJs with frameworks and tools such as ExpressJs, MySQL, PostgreSQL, MongoDB, Mongoose and Sequelize with personal experience in developing back-end applications, APIs and web applications.<br>
-In-depth knowledge and experience on the following tools Rest Assured, Selenium, Cypress, Git, Junit, JMeter, Jira, Jenkins, GitLab, GitHub, Postman, SCRUM and DevOps Agile Methodologies.
+Deep professional experience in Software Engineering in Test, developing automated applications and frameworks for API and WEB testing, code review, code refactoring, software testing process, test analysis, and test planning.<br>
+Knowledge in software development in Javascript with NodeJs, frameworks and tools such as ExpressJs, MySQL, PostgreSQL, MongoDB, Mongoose and Sequelize developing back-end applications, APIs and web applications.<br>
+In-depth knowledge and experience on the following tools Rest Assured, Selenium, Cypress, Git, Junit, JMeter, Jira, Confluence, Jenkins, Azure, GitLab, GitHub, Postman, Scrum methodology and DevOps.<br>
 </p>
 
 
