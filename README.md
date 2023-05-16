@@ -13,10 +13,10 @@
 ## About me
 
 <p>
-Graduated Software Engineer with knowledge in JavaScript, NodeJs, Python and Java programming languages.<br>
-Deep professional experience in Software Engineering in Test, developing automated applications and frameworks for API and WEB testing, code review, code refactoring, software testing process, test analysis, and test planning.<br>
-Knowledge in software development in Javascript with NodeJs, frameworks and tools such as ExpressJs, MySQL, PostgreSQL, MongoDB, Mongoose and Sequelize developing back-end applications, APIs and web applications.<br>
-In-depth knowledge and experience on the following tools Rest Assured, Selenium, Cypress, Git, Junit, JMeter, Jira, Confluence, Jenkins, Azure, GitLab, GitHub, Postman, Scrum methodology and DevOps.<br>
+Software Engineer with expertise in JavaScript, NodeJs, Python and Java programming languages.<br>
+My deep professional experience lies in Software Engineering in Test, where I excel in developing automated applications and frameworks for API and WEB testing, conducting code review and refactoring, and ensuring high levels of reliability and scalability. Additionaly optimizing development workflows and developing pipelines.<br>
+Extensive knowledge in software development in Javascript and NodeJs, including ExpressJs framework developing back-end applications, APIs and web applications.<br> 
+My expertise also extends to various tools such as Rest Assured, Selenium, Cypress, Git, Junit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Scrum methodology and DevOps.<br> With my experience I can effectively manage the software development lifecycle, ensuring seamless integration and delivery of top-notch software solutions.<br>
 </p>
 
 
