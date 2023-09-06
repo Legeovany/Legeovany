@@ -5,7 +5,7 @@
 
 - 👋 I’m Geovany Aciole and I’m a Software Engineer
 
-- 🌱 I’m 21 years old
+- 🌱 I’m 22 years old
 
 - 🏠 I’m from Brazil and currently living in Lisbon, Portugal
 
@@ -14,9 +14,9 @@
 
 <p>
 Software Engineer with expertise in JavaScript, NodeJs, Python and Java programming languages.<br>
-My deep professional experience lies in Software Engineering in Test, where I excel in developing automated applications and frameworks for API and WEB testing, conducting code review and refactoring, and ensuring high levels of reliability and scalability. Additionaly optimizing development workflows and developing pipelines.<br>
+My deep professional experience lies in Software Engineering in Test, where I excel in developing automated applications and frameworks for API and WEB testing, I also conduct code review and refactoring to enhance code quality, Additionally optimizing development workflows and developing pipelines to ensure high levels of reliability and scalability.<br>
 Extensive knowledge in software development in Javascript and NodeJs, including ExpressJs framework developing back-end applications, APIs and web applications.<br> 
-My expertise also extends to various tools such as Rest Assured, Selenium, Cypress, Git, Junit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Scrum methodology and DevOps.<br> With my experience I can effectively manage the software development lifecycle, ensuring seamless integration and delivery of top-notch software solutions.<br>
+Furthermore, my expertise encompasses a diverse range of essential tools, including Cypress, Rest Assured, Selenium, Git, Junit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Scrum methodology and DevOps. With my experience I can effectively manage the software development lifecycle, ensuring seamless integration and delivery of top-notch software solutions.<br>
 </p>
 
 
