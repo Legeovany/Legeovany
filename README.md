@@ -13,10 +13,9 @@
 ## About me
 
 <p>
-Software Engineer with expertise in JavaScript, NodeJs, Python and Java programming languages.<br>
-My deep professional experience lies in Software Engineering in Test, where I excel in developing automated applications and frameworks for API and WEB testing, I also conduct code review and refactoring to enhance code quality, Additionally optimizing development workflows and developing pipelines to ensure high levels of reliability and scalability.<br>
-Extensive knowledge in software development in Javascript and NodeJs, including ExpressJs framework developing back-end applications, APIs and web applications.<br> 
-Furthermore, my expertise encompasses a diverse range of essential tools, including Cypress, Rest Assured, Selenium, Git, Junit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Scrum methodology and DevOps. With my experience I can effectively manage the software development lifecycle, ensuring seamless integration and delivery of top-notch software solutions.<br>
+Passionate Software Engineer with a deep expertise in JavaScript, Node.js, Python, and Java. With a specialization in Software Engineering in Test, my professional journey is marked by a knack for developing automated applications and frameworks dedicated to API and web testing. I focus on enhancing software quality through QA process, test automation, code review, end-to-end testing, optimized development workflows, pipeline development and comprehensive documentation. My goal is to deliver reliable, inherently scalable and efficient solutions.<br>
+In the world of software development, my experience is extensive in both front-end and back-end aspects, with a strong focus on JavaScript and Node.js, where I develop sophisticated back-end applications and web APIs, leveraging the power of Express.js. Within this spectrum, I hold a pivotal role in driving feature development, tackling bug fixes, innovation and software design.<br>
+Furthermore, I have expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI, scrum methodology and more. Leveraging my experience, I orchestrate the software development lifecycle to ensure seamless integration and the delivery of top-tier software solutions.<br>
 </p>
 
 
