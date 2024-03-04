@@ -13,9 +13,10 @@
 ## About me
 
 <p>
-Passionate Software Engineer with a deep expertise in JavaScript, Node.js, Python, and Java. Specialized in Software Engineering in Test, my professional journey is marked by a knack for developing automated applications and frameworks dedicated to API and web testing. I focus on enhancing software quality through QA process, test automation, code review, end-to-end testing, optimized development workflows, pipeline development and comprehensive documentation. My goal is to deliver reliable, inherently scalable and efficient solutions.<br>
-In the world of software development, my experience is extensive in both front-end and back-end aspects, with a strong focus on JavaScript and Node.js, where I develop sophisticated back-end applications and web APIs, leveraging the power of Express.js. Within this spectrum, I hold a pivotal role in driving feature development, tackling bug fixes, innovation and software design.<br>
-Furthermore, I have expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI, scrum methodology and more. Leveraging my experience, I orchestrate the software development lifecycle to ensure seamless integration and the delivery of top-tier software solutions.<br>
+Experienced and results-driven Software Engineer with a proven track record of leading test automation processes with knowledge in JavaScript, Node.js and Java, specialized in API and Front-end testing. Adept at test automation development, software testing, end-to-end testing, and framework innovation, I bring a wealth of expertise to the field. In addition to my technical proficiency, I play a pivotal role in the development of new system features, bug fixing, software design, optimization of pipeline, agile development workflows, and ensuring both reliability and scalability through code review.<br>
+Extensive experience in both front-end and back-end aspects, with strong focus on JavaScript and Node.js, where I develop back-end applications and web APIs leveraging the power of Express.js.<br>
+Furthermore, I have expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure DevOps, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI, scrum methodology and more.<br>
+I bring a unique blend of technical prowess, leadership skills, and a passion for innovation, making me a valuable asset in the dynamic field of software development.<br>
 </p>
 
 
