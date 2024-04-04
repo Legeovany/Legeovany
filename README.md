@@ -13,10 +13,9 @@
 ## About me
 
 <p>
-Experienced and results-driven Software Engineer with a proven track record of leading test automation processes with knowledge in JavaScript, Node.js and Java, specialized in API and Front-end testing. Adept at test automation development, software testing, end-to-end testing, and framework innovation, I bring a wealth of expertise to the field. In addition to my technical proficiency, I play a pivotal role in the development of new system features, bug fixing, software design, optimization of pipeline, agile development workflows, and ensuring both reliability and scalability through code review.<br>
-Extensive experience in both front-end and back-end aspects, with strong focus on JavaScript and Node.js, where I develop back-end applications and web APIs leveraging the power of Express.js.<br>
-Furthermore, I have expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure DevOps, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI, scrum methodology and more.<br>
-I bring a unique blend of technical prowess, leadership skills, and a passion for innovation, making me a valuable asset in the dynamic field of software development.<br>
+Experienced Software Engineer with a proven track record in leading test automation processes, specializing in API and Front-end testing. With strong knowledge in JavaScript, Node.js, and Java, I excel in test automation development, software testing, and end-to-end testing, driving innovation in frameworks. I contribute significantly to feature development, bug fixing, software design, and optimization of agile development workflows. With extensive experience in both front-end and back-end aspects, I leverage JavaScript and Node.js, particularly in developing back-end applications and web APIs.<br> Additionally, I possess expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure DevOps, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI and more. Known for my technical prowess, leadership abilities, and commitment to innovation, I am well-equipped to thrive in the dynamic field of software development.<br>
+
+Let's connect and explore how my passion and experience can contribute to your projects or organization. Feel free to reach out for opportunities, collaborations, or discussions on how we can work together to achieve your goals.<br>
 </p>
 
 
