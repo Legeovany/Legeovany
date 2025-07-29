@@ -13,7 +13,7 @@
 ## About me
 
 <p>
-Versatile Software Engineer passionate about building resilient, scalable, and innovative solutions. Enthusiast of the best technologies for software development and AI.<br>
+💻 Versatile Software Engineer passionate about building resilient, scalable, and innovative solutions. Enthusiast of the best technologies for software development and AI.<br>
 
 🎨 Building my expertise in Back-end development and Artificial Intelligence, skilled in JavaScript, Python, NodeJs<br>
 
@@ -25,7 +25,7 @@ Versatile Software Engineer passionate about building resilient, scalable, and i
 
 🎓 B.Sc. Software Engineer and M.Sc in Artificial Intelligence in progress.<br>
 
-Let's connect and explore how my passion and experience can contribute to your projects or organization. Feel free to reach out for opportunities, collaborations, or discussions on how we can work together to achieve your goals.<br>
+Let's connect and explore how my passion and experience can contribute to your projects or organization.<br>
 </p>
 
 
