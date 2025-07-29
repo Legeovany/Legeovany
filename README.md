@@ -5,15 +5,25 @@
 
 - 👋 I’m Geovany Aciole and I’m a Software Engineer
 
-- 🌱 I’m 22 years old
+- 🌱 I’m 24 years old
 
-- 🏠 I’m from Brazil and currently living in Lisbon, Portugal
+- 🏠 I’m from Brazil and currently living in Dublin, Ireland
 
 
 ## About me
 
 <p>
-Experienced Software Engineer with a proven track record in leading test automation processes, specializing in API and Front-end testing. With strong knowledge in JavaScript, Node.js, and Java, I excel in test automation development, software testing, and end-to-end testing, driving innovation in frameworks. I contribute significantly to feature development, bug fixing, software design, and optimization of agile development workflows. With extensive experience in both front-end and back-end aspects, I leverage JavaScript and Node.js, particularly in developing back-end applications and web APIs.<br> Additionally, I possess expertise in essential tools such as Cypress, Rest Assured, Selenium, JUnit, JMeter, Jira, Jenkins, Azure DevOps, GitHub, Postman, Figma, Fastify, TypeScript, Prisma, SQL, MongoDB, AI and more. Known for my technical prowess, leadership abilities, and commitment to innovation, I am well-equipped to thrive in the dynamic field of software development.<br>
+Versatile Software Engineer passionate about building resilient, scalable, and innovative solutions. Enthusiast of the best technologies for software development and AI.<br>
+
+🎨 Building my expertise in Back-end development and Artificial Intelligence, skilled in JavaScript, Python, NodeJs<br>
+
+🌍 My tech toolbox includes Fastify, Express.js, Prisma, MongoDB, PostgreSQL, AWS, Docker, and Azure DevOps.<br>
+
+🔭 SDET specialist integrating quality with automated unit, integration, code reviews, and end-to-end testing using Playwright, Cypress, Jest, JUnit, JMeter, SonarCloud.<br>
+
+🚀 Continuous improvement advocate, always optimising processes and collaborating to enhance team productivity and software quality.<br>
+
+🎓 B.Sc. Software Engineer and M.Sc in Artificial Intelligence in progress.<br>
 
 Let's connect and explore how my passion and experience can contribute to your projects or organization. Feel free to reach out for opportunities, collaborations, or discussions on how we can work together to achieve your goals.<br>
 </p>
@@ -31,11 +41,11 @@ Let's connect and explore how my passion and experience can contribute to your p
   <a href="#" alt="Node.Js">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
   
-  <a href="#" alt="Java">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-  
   <a href="#" alt="Python">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+  
+  <a href="#" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
   
   <a href="#" alt="Cypress">
   <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" /></a>
